@@ -1,0 +1,112 @@
+body{
+    background-color: #f2a541; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center;
+}
+
+
+
+    #navbar { display: flex;
+        justify-content: center; 
+        align-items: center;        
+        background-color: #c6a8ff;                 
+        
+    }
+    h1{
+        font-size: 50px;
+        
+    }
+    
+    
+    p{
+        font-size: 15px;                
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #footer{
+
+
+
+    }
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -6,8 +6,8 @@ body{
     #navbar { display: flex;
         justify-content: center; 
         align-items: center;        
-        background-color: #c6a8ff;                 
-      
+        background-color: #c6a8ff;
+        
     }
     #navbar a{
         color: black;
@@ -19,32 +19,106 @@ body{
         color: black;
         padding: 10px;
 
-    }           
+    } 
+             
     
     .img{
         display: flex;
         justify-content:center;
+        border: 5px;
         }
        h1{
         display: flex;
         justify-content: center;
         font-size: 50px;
-       }
-        
+       }         
+
+    
+    
 
     
     p{
-        font-size: 15px;                
+        font-size: 20px;                
     }
     Footer{
         display: flex;
         justify-content: center;
         align-items: center;
         background-color: #c6a8ff;
-    
+        font-size: 20px;   
+     }
+ 
 
 
-    }
+h1  {
+
+    text-align: center;
+}
+
+p       {
+
+text-align:center;
+font-size:x-large
+
+}
+
+
+body {
+
+background-color: #f2a541;
+}
+
+.jap1       {
+
+width:30%;
+height:20%;
+
+}
+
+.jap2   {
+
+width:30%;
+height:20%
+
+}
+
+.jap3   {
+
+width:30%;
+height:20%;
+
+
+}
+
+#jappa  {
+
+display:flex;
+justify-content:space-evenly;
+
+}
+#gre{
+    display:flex;
+justify-content:space-evenly;
+
+}
+.gre1{
+    width:30%;
+height:20%;
+
+}
+.gre2{
+    width:30%;
+height:20%;
+
+} 
+.gre3{
+    width:30%;
+height:20%;
+}
+        
+
+        
+     
 
 
 
@@ -70,11 +144,11 @@ body{
 
 
 
-    #footer{
+   
 
 
 
-    }
+   
 
 
 
